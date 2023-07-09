@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\alexa\OneDrive\Documentos\GitHub\Modelos-Proyecto2023A\OpenGL\Header.h(556,13): warning C4101: 'P': variable local sin referencia
+C:\Users\alexa\OneDrive\Documentos\GitHub\Modelos-Proyecto2023A\OpenGL\Header.h(556,16): warning C4101: 'T': variable local sin referencia
+C:\Users\alexa\OneDrive\Documentos\GitHub\Modelos-Proyecto2023A\OpenGL\Header.h(675,13): warning C4101: 'n': variable local sin referencia
+C:\Users\alexa\OneDrive\Documentos\GitHub\Modelos-Proyecto2023A\OpenGL\Header.h(805,53): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\alexa\OneDrive\Documentos\GitHub\Modelos-Proyecto2023A\OpenGL\Definitions.h(15,1): warning C4005: 'V_SON': redefinición de macro
+C:\Users\alexa\OneDrive\Documentos\GitHub\Modelos-Proyecto2023A\OpenGL\Header.h(20,1): message : vea la definición anterior de 'V_SON'
+C:\Users\alexa\OneDrive\Documentos\GitHub\Modelos-Proyecto2023A\OpenGL\Source.cpp(353,9): warning C4101: 'nt': variable local sin referencia
+  OpenGL.vcxproj -> C:\Users\alexa\OneDrive\Documentos\GitHub\Modelos-Proyecto2023A\x64\Debug\OpenGL.exe
